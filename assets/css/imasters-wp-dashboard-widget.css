@@ -1,0 +1,30 @@
+/* CSS Document */
+/*#imasters_wp_dashboard_widget #identity {
+   width: 33px;
+   height: 33px;
+   position: absolute;
+   top: -39px;
+   left: -8px;
+   background: url(../images/imasters.png) no-repeat 7px 7px;
+   }
+   
+#imasters_wp_dashboard_widget h3.hndle span {
+   padding: 6px 0 6px 22px;
+   }
+*/
+#imasters_wp_dashboard_widget ul li a {
+   font-weight: none;
+   text-decoration: none;
+   text-transform: none;
+   font-size: 14px;
+   }
+
+#imasters_wp_dashboard_widget .pubdate {
+   margin: -5px 0 0;
+   font-size: 8px;
+   font-weight: bold;
+   }
+
+#imasters_wp_dashboard_widget #button {
+   padding: 5px 0;
+   }
